@@ -27,6 +27,7 @@ body {
   padding: 5px 5px;
   max-width:150px;
   border-radius:10px;
+  text-decoration:none;
   background-color: rgb(230, 152, 26);
 
 }
