@@ -21,7 +21,7 @@ body {
 
 /* Call to Action "button" */
 .cta a, .cta a:visited {
-  color:hsl(48, 92%, 47%)
+  color:hsl(48, 92%, 47%);
   margin: auto;
   margin-left:90px;
   padding: 5px 5px;
