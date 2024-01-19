@@ -1,0 +1,44 @@
+/* Body text */
+body {
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: block;
+  background-color: hsl(300, 60%, 49%);
+  padding: 50px 70px;
+}
+
+/* Call-to-action container */
+.cta {
+  margin: auto;
+  margin-top: 5rem;
+  padding: 2rem;
+  max-width: 30ch;
+  border-radius: 25px;
+  background-color:hsl(6, 87%, 44%);
+  
+
+}
+
+/* Call to Action "button" */
+.cta a, .cta a:visited {
+  color:hsl(48, 92%, 47%)
+  margin: auto;
+  margin-left:90px;
+  padding: 5px 5px;
+  max-width:150px;
+  border-radius:10px;
+  background-color: rgb(230, 152, 26);
+
+}
+
+/* Hover state */
+.cta a:hover {
+  color:rgba(236, 18, 94, 0.874);
+  font-size: 110%;
+
+}
+
+/* Click state */
+.cta a:active {
+
+}
