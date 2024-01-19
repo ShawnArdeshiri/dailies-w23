@@ -35,10 +35,9 @@ body {
 .cta a:hover {
   color:rgba(236, 18, 94, 0.874);
   font-size: 110%;
-
 }
 
 /* Click state */
 .cta a:active {
-
+color: hsl(89, 70%, 43%);
 }
